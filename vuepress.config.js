@@ -10,7 +10,7 @@ module.exports = {
         ["vuepress-plugin-auto-sidebar", { version:'v2', output: { filename: 'sidebar-auto' } }],
     ],
     theme: defaultTheme({
-        navbar: false,
+        navbar: [],
         sidebar: sidebarConf
     }),
 

@@ -1,4 +1,4 @@
-# Getting Started with SAP SuccessFactors HXM
+# SAP SuccessFactors HXM 入门
 
 ::: tip 本节目标
 

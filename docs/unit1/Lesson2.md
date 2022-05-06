@@ -10,7 +10,7 @@
 
 - 功能获取管理 Provision Access Management
 
-- 描述如何讲一个实例和provisioning关联
+- 描述如何将一个实例和provisioning关联
 :::
 
 ## 进入实例 Instance Access

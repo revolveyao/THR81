@@ -45,9 +45,9 @@ jobs:
 
       # 查看 workflow 的文档来获取更多信息
       # @see https://github.com/crazy-max/ghaction-github-pages
-      - name: Deploy to GitHub Pages
-        uses: JamesIves/github-pages-deploy-action@releases/v3
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@v4.3.3
         with:
-          GITHUB_TOKEN: ${{ secrets.PAGES }}
-          BRANCH: gh-pages # The branch the action should deploy to.
-          FOLDER: docs/.vuepress/dist # The folder the action should deploy.
+          token: ${{ secrets.PAGES }}
+          branch: gh-pages # The branch the action should deploy to.
+          folder: docs/.vuepress/dist # The folder the action should deploy.

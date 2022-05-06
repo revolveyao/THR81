@@ -6,6 +6,7 @@ module.exports = [
         children: [
             '/unit1/Lesson1.md',
             '/unit1/Lesson2.md',
+            '/unit1/Lesson3.md',
         ],
     }
 ]

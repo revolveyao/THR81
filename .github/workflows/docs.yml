@@ -48,7 +48,5 @@ jobs:
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4.3.3
         with:
-          token: ${{ secrets.PAGES }}
-          ssh-key: ${{ secrets.DEPLOY_KEY }}
           branch: gh-pages # The branch the action should deploy to.
           folder: docs/.vuepress/dist # The folder the action should deploy.

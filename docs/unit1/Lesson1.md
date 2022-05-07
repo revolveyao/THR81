@@ -1,5 +1,7 @@
 # SAP SuccessFactors HXM 入门
 
+[[toc]]
+
 ::: tip 本节目标
 
 - 开始和一些可用资源

@@ -1,4 +1,4 @@
-# 在SAP SuccessFactors中导航和访问工具及支持
+# 导航并访问SAP SuccessFactors中的工具及支持
 
 [[toc]]
 

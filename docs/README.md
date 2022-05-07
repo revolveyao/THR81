@@ -9,3 +9,5 @@ SAP SuccessFactors HXM
   - [管理员基础](./unit1/Lesson4.md)
 
 - [单元2：SAP SuccessFactors HXM - 权限](./unit2/README.md)
+  - [使用SAP SuccessFactors 中的基于角色权限 (RBP)管理用户控制](./unit2/Lesson1.md)
+  - [管理代理](./unit2/Lesso2.md)

@@ -1,0 +1,1 @@
+const e={key:"v-61484777",path:"/unit5/Lesson1.html",title:"MDF\u6982\u89C8",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1651990971e3,contributors:[{name:"Revolve Yao",email:"revolveyao@outlook.com",commits:1}]},filePathRelative:"unit5/Lesson1.md"};export{e as data};

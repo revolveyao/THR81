@@ -1,4 +1,4 @@
-# 单元2 SAP SuccessFactors HXM - 基本配置
+# 单元3 SAP SuccessFactors HXM - 基本配置
 
 ## 学习目标
 

@@ -428,12 +428,10 @@ Check tool, which you are learning in the next module can also be used for User 
   <td>Import Extended User Information, Import Employee Data->Extended Im- port, or Import Employee Data -> Background Import</td>
   <td>Import Extended User In- formation</td>
  </tr>
- </tr>
   <tr>
   <td>下载扩展用户信息<br/>Download extended user information</td>
   <td colspan="2">Export Extended User Information</td>
  </tr>
-  </tr>
   <tr>
   <td>验证用户数据<br/>Validate your user data</td>
   <td colspan="2">Check Tool->User Management</td>

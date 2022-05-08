@@ -561,7 +561,7 @@ Favorites quick action enables you to review a list of available links and selec
 
 ![Help and Tutorials](./img/20220508134737.png)
 
-### :tada:练习7 更新公司资源页面 Update the Company Resource Page
+### :tada:练习七 更新公司资源页面 Update the Company Resource Page
 
 “资源”屏幕可供想要了解贵公司更多信息的用户使用。您可以放置指向公司信息的内容和链接，并编辑内容以确保其是最新的。  
 The Resources screen is available to users who want to find out more information about your company. You can place content and links to your company information, and edit the content to ensure that it is current.

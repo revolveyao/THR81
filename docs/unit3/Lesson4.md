@@ -476,7 +476,7 @@ In this exercise, you export an existing data file from your instance, and save 
 您从实例中导出了现有用户数据文件，并将其保存到桌面。  
 You exported the existing User Data File from your instance, and saved it to your desktop.
 
-### 练习十二 修改数据文件 Modify the Data File
+### :tada:练习十二 修改数据文件 Modify the Data File
 
 作为管理员，您的职责之一是维护员工记录，包括保持用户目录最新。  
 As an administrator, one of your responsibilities is to maintain employee records, including keeping the User Directory up to date.

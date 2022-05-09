@@ -73,11 +73,11 @@ SAP SuccessFactors People Profile 通过集成的资源库提供相关的社区�
 <tr>
 <td>管理中心(Admin Center)</td>
 <td>排列布局<br/>Arranges the layout</td>
-<tr>
+</tr>
 <tr>
 <td>数据模型(Data Model)</td>
 <td>定义人员档案中使用的标准元素<br/>定义自定义筛选字段(如果适用)<br/>Defines the Standard Elements used in the People Profile<br/>Defines custom filtering fields (if applicable)</td>
-<tr>
+</tr>
 </table>
 
 标准元素是您在实例中看到的字段，例如姓名、雇用日期、地址、电话号码等。定义字段可以包括更改标签以及确定字段是否为必填字段。然后，您将配置标准元素的权限。这有助于系统确定谁有权访问每个字段，以及访问、读取或写入级别。例如，员工可能能够查看，但不能编辑其录用日期。

@@ -99,9 +99,7 @@ Use the new credentials with the company ID to log in to the front end.
 
 链接至“从资源调配创建管理员用户”视频：<https://sapvideoa35699dc5.hana.ondemand.com/?entry_id=1_b11ffdch>
 
-## 练习1
-
-### 添加新的管理员账户 Add a New Administrator Account
+### :tada:练习1 添加新的管理员账户 Add a New Administrator Account
 
 Business Example
 You need to create an Administrator account.
@@ -136,9 +134,7 @@ On the Company Settings screen, use the following details to create an Administr
 Provisioning访问是特定于实例的。如果SAP SuccessFactors系统（开发、测试、生产）中有多个实例，则需要分别管理每个实例中的Provisioning访问。
 :::
 
-## 练习2
-
-### 授予查看和管理资源调配访问权限 Granting Permissions to View and Manage Provisioning Access
+### :tada:练习2 授予查看和管理资源调配访问权限 Granting Permissions to View and Manage Provisioning Access 
 
 Your customer wants to start with Role Based Permissions (RBP) and needs access to the tools.
 

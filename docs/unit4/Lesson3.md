@@ -37,6 +37,7 @@
 #### 选项列表字段 Picklist Fields
 
 |字段<br/>|描述<br/>|
+|-----|-----|
 |代码<br/>Code|用于识别选项列表的唯一业务代码。（如果您熟悉旧选项列表，这相当于选项列表编号。）<br/>Unique business key that is used to identify the picklist. (If you are familiar with legacy picklists, this is the equiv- alent of the picklist ID.)|
 |父选项列表<br/>Parent Picklist|选项列表可以有父选项列表。例如，如果在选择特定国家/地区时只能选择特定州，则国家/地区选项列表是州选项列表的父项。将旧选项列表迁移到MDF选项列表时，会为现有MDF选项列表值生成选项标识符。对于已迁移的过时选项列表选项，现有optionId存储在映射表中。<br/>|
 |显示顺序<br/>Display Order|选项列表中列出选项列表值的顺序，例如按字母顺序或数字。<br/>|
@@ -48,6 +49,7 @@
 #### 选项列表值字段 Picklist Values Fields
 
 |字段|描述<br/>|
+|-----|------|
 |外部代码<br/>External Code|MDF外部代码。用于识别下拉选单值的唯一业务代码，例如state_Alabama 。<br/>MDF external code. A unique business key that is used to identify the picklist value, for example, state_Alabama.|
 |非唯一外部代码<br/>Non-unique External Code|过时外部代码。与MDF外部代码不同，它可以是空白的，也可以是重复的。<br/>Legacy external code. Unlike the MDF external code, it can be blank or duplicated.|
 |父选项列表值<br/>Parent Picklist Value|例如，如果外部代码是state_Alabama，则父选项列表值为美国。如果值为state_Alberta，则父选项列表值为加拿大。<br/>For example, if the external code is state_Alabama, the pa- rent picklist value would be United States. If the value is state_Alberta, the parent picklist value would be Canada.|

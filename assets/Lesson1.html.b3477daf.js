@@ -1,1 +1,0 @@
-const e={key:"v-7f6a7dd8",path:"/unit4/Lesson1.html",title:"\u5728SAP SuccessFactors\u4E2D\u4F7F\u7528XML",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1651990971e3,contributors:[{name:"Revolve Yao",email:"revolveyao@outlook.com",commits:1}]},filePathRelative:"unit4/Lesson1.md"};export{e as data};
